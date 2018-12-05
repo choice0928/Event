@@ -28,7 +28,7 @@
 }
 
 - (void)cornerBtnClick {
-    NSLog(@"点击到了响应区域");
+    NSLog(@"点击到了响应区域");      
 }
 
 
